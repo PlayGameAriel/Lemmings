@@ -12,10 +12,13 @@ The game buttons: arrows right, arrows left, arrows down
   
   מהתחלה ציירתי במפת האריחים של יוניטי את המפה.
   
+  ![colors](https://user-images.githubusercontent.com/30858011/102213057-d577eb80-3ede-11eb-9ff1-68c2df41d943.png)
+  
   מפני שהשתמשתי ביותר מדי תאים יצאה מפה קבדה מדי. אז עשיתי מהמפה תמונה חדשה ואז חלקתי אותה לאריחים וכך הרכבתי את המפה.
   
   
 ![image](https://user-images.githubusercontent.com/30858011/102212690-44087980-3ede-11eb-80a7-67b5ec8f5beb.png)
+
   
   Grid-
   
