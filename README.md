@@ -7,4 +7,4 @@ https://irisravten.itch.io/lemmings
 The objective of the game is to guide a group of anthropomorphised lemmings through a number of obstacles to a designated exit.
 
 The game buttons: arrows right, arrows left, arrows down
- game
+
