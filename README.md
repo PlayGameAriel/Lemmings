@@ -32,7 +32,7 @@ The game buttons: arrows right, arrows left, arrows down
 
 ![image](https://user-images.githubusercontent.com/30858011/102211018-a14efb80-3edb-11eb-8520-a0eada2bb68f.png)
 
-*בשאלה ביקשו לצייר רמה אחת במפת האריחים של יוניטי , בנוסף הוספתי שני השחקנים עם סקריפט מיוחד של תזוזה
+*בשאלה ביקשו לצייר רמה אחת במפת האריחים של יוניטי , בנוסף הוספתי שני שחקנים עם סקריפט מיוחד של תזוזה
 
 
 Player-
