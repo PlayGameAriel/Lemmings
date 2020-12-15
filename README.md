@@ -12,7 +12,7 @@ The game buttons: arrows right, arrows left, arrows down
   
   מהתחלה ציירתי במפת האריחים של יוניטי את המפה.
   
-  ![colors](https://user-images.githubusercontent.com/30858011/102213057-d577eb80-3ede-11eb-9ff1-68c2df41d943.png)
+![image](https://user-images.githubusercontent.com/30858011/102213215-17089680-3edf-11eb-958b-59839c97d484.png)
   
   מפני שהשתמשתי ביותר מדי תאים יצאה מפה קבדה מדי. אז עשיתי מהמפה תמונה חדשה ואז חלקתי אותה לאריחים וכך הרכבתי את המפה.
   
