@@ -14,7 +14,7 @@ The game buttons: arrows right, arrows left, arrows down
   
 ![image](https://user-images.githubusercontent.com/30858011/102213215-17089680-3edf-11eb-958b-59839c97d484.png)
   
-  מפני שהשתמשתי ביותר מדי תאים יצאה מפה קבדה מדי. אז עשיתי מהמפה תמונה חדשה ואז חלקתי אותה לאריחים וכך הרכבתי את המפה.
+  מפני שהשתמשתי ביותר מדי תאים יצאה מפה כבדה מדי. אז עשיתי מהמפה תמונה חדשה ואז חלקתי אותה לאריחים וכך הרכבתי את המפה.
   
   
 ![image](https://user-images.githubusercontent.com/30858011/102212690-44087980-3ede-11eb-80a7-67b5ec8f5beb.png)
