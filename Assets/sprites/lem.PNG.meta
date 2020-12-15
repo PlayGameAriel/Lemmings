@@ -1,0 +1,8048 @@
+fileFormatVersion: 2
+guid: 2483ec48b7d48b147a6dfa2d7c9a73c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1861482356897895181
+    second: lem_0
+  - first:
+      213: -2838259579647351598
+    second: lem_1
+  - first:
+      213: 6817163550723338102
+    second: lem_2
+  - first:
+      213: -8222790595899050285
+    second: lem_3
+  - first:
+      213: 74594701808332909
+    second: lem_4
+  - first:
+      213: -3123123114187635585
+    second: lem_5
+  - first:
+      213: -6966666208045514028
+    second: lem_6
+  - first:
+      213: 3706752380221284605
+    second: lem_7
+  - first:
+      213: 5667506594002539991
+    second: lem_8
+  - first:
+      213: -9166189846268413912
+    second: lem_9
+  - first:
+      213: -8425048336349316858
+    second: lem_10
+  - first:
+      213: -149992424395250872
+    second: lem_11
+  - first:
+      213: 1566285338090947653
+    second: lem_12
+  - first:
+      213: -6424078982049125303
+    second: lem_13
+  - first:
+      213: -8939912404420774835
+    second: lem_14
+  - first:
+      213: -2211311835204920165
+    second: lem_15
+  - first:
+      213: -7644805210785968918
+    second: lem_16
+  - first:
+      213: 3727998894582654391
+    second: lem_17
+  - first:
+      213: 4046561647310379172
+    second: lem_18
+  - first:
+      213: -5366130384017948524
+    second: lem_19
+  - first:
+      213: -634851346753940584
+    second: lem_20
+  - first:
+      213: 1489406990224614752
+    second: lem_21
+  - first:
+      213: -8298641214914321375
+    second: lem_22
+  - first:
+      213: 3813801865296890575
+    second: lem_23
+  - first:
+      213: 495020154351818203
+    second: lem_24
+  - first:
+      213: -734666442443638681
+    second: lem_25
+  - first:
+      213: -1551905193859113382
+    second: lem_26
+  - first:
+      213: 2623301980512891635
+    second: lem_27
+  - first:
+      213: -7187331611593032590
+    second: lem_28
+  - first:
+      213: 2640219555139705765
+    second: lem_29
+  - first:
+      213: 3760658210654067640
+    second: lem_30
+  - first:
+      213: -8422379236427167092
+    second: lem_31
+  - first:
+      213: 9099739328702091237
+    second: lem_32
+  - first:
+      213: -6017374782406538989
+    second: lem_33
+  - first:
+      213: 3713338454649529509
+    second: lem_34
+  - first:
+      213: -2614800988618558022
+    second: lem_35
+  - first:
+      213: 308650831471159757
+    second: lem_36
+  - first:
+      213: -8139666871009516962
+    second: lem_37
+  - first:
+      213: -3669368945388879169
+    second: lem_38
+  - first:
+      213: 1204417040782995073
+    second: lem_39
+  - first:
+      213: -941050512125417598
+    second: lem_40
+  - first:
+      213: 1803282352688776428
+    second: lem_41
+  - first:
+      213: 3719877722490570778
+    second: lem_42
+  - first:
+      213: 5613019814298811538
+    second: lem_43
+  - first:
+      213: 104212309580034248
+    second: lem_44
+  - first:
+      213: 1682919718888520173
+    second: lem_45
+  - first:
+      213: 5523328197480966256
+    second: lem_46
+  - first:
+      213: 3969598916790340448
+    second: lem_47
+  - first:
+      213: 1024457327136823121
+    second: lem_48
+  - first:
+      213: 4357100046935232099
+    second: lem_49
+  - first:
+      213: 2953785299107470050
+    second: lem_50
+  - first:
+      213: -5405033113810060151
+    second: lem_51
+  - first:
+      213: 7429801890710290051
+    second: lem_52
+  - first:
+      213: 3236903257505060372
+    second: lem_53
+  - first:
+      213: -1807353758926023109
+    second: lem_54
+  - first:
+      213: 666830961933351638
+    second: lem_55
+  - first:
+      213: -123677695115613969
+    second: lem_56
+  - first:
+      213: 9023886131468844267
+    second: lem_57
+  - first:
+      213: -216278450250506423
+    second: lem_58
+  - first:
+      213: -8206726250809532517
+    second: lem_59
+  - first:
+      213: 6915400323459789359
+    second: lem_60
+  - first:
+      213: -8514983277036088317
+    second: lem_61
+  - first:
+      213: 7739469096493129593
+    second: lem_62
+  - first:
+      213: 8429523903907310592
+    second: lem_63
+  - first:
+      213: 5596977608645584517
+    second: lem_64
+  - first:
+      213: 1630158418099868037
+    second: lem_65
+  - first:
+      213: 8407643905292265094
+    second: lem_66
+  - first:
+      213: -1575805516711489465
+    second: lem_67
+  - first:
+      213: -3877807986243911860
+    second: lem_68
+  - first:
+      213: -3175985491445231237
+    second: lem_69
+  - first:
+      213: 8044795624518992361
+    second: lem_70
+  - first:
+      213: 1980977624343615213
+    second: lem_71
+  - first:
+      213: 8524246699408594736
+    second: lem_72
+  - first:
+      213: 3610054314237794240
+    second: lem_73
+  - first:
+      213: 3694600576191665958
+    second: lem_74
+  - first:
+      213: 6668104675568489498
+    second: lem_75
+  - first:
+      213: -2510702948455773169
+    second: lem_76
+  - first:
+      213: -4200043490694759422
+    second: lem_77
+  - first:
+      213: 8533807778465480228
+    second: lem_78
+  - first:
+      213: 4953933989787847507
+    second: lem_79
+  - first:
+      213: 542166316631968462
+    second: lem_80
+  - first:
+      213: -7534741755651022548
+    second: lem_81
+  - first:
+      213: -684244370325567545
+    second: lem_82
+  - first:
+      213: -1513049116915576298
+    second: lem_83
+  - first:
+      213: 7415691668224670118
+    second: lem_84
+  - first:
+      213: -6568712657583639891
+    second: lem_85
+  - first:
+      213: -7738274238998432397
+    second: lem_86
+  - first:
+      213: -470772648416471440
+    second: lem_87
+  - first:
+      213: -4384922979911676976
+    second: lem_88
+  - first:
+      213: -492742143772267661
+    second: lem_89
+  - first:
+      213: -5459387991816008432
+    second: lem_90
+  - first:
+      213: 2439038076026153880
+    second: lem_91
+  - first:
+      213: 2208028385308325382
+    second: lem_92
+  - first:
+      213: -8336732752374215422
+    second: lem_93
+  - first:
+      213: -1123777776241064252
+    second: lem_94
+  - first:
+      213: -4351748521832526633
+    second: lem_95
+  - first:
+      213: 4463161144946967255
+    second: lem_96
+  - first:
+      213: 8058104780976592074
+    second: lem_97
+  - first:
+      213: -6043688336899977314
+    second: lem_98
+  - first:
+      213: -7573558347638781931
+    second: lem_99
+  - first:
+      213: 3440752710174129613
+    second: lem_100
+  - first:
+      213: -582899664584846085
+    second: lem_101
+  - first:
+      213: 7917116377748647482
+    second: lem_102
+  - first:
+      213: -1152327815539621213
+    second: lem_103
+  - first:
+      213: -2861802705868058637
+    second: lem_104
+  - first:
+      213: 5475948612592650351
+    second: lem_105
+  - first:
+      213: 1035723160751375013
+    second: lem_106
+  - first:
+      213: -5381485872340479009
+    second: lem_107
+  - first:
+      213: -6997709518926351007
+    second: lem_108
+  - first:
+      213: 3684992196508458432
+    second: lem_109
+  - first:
+      213: -4316277425883763720
+    second: lem_110
+  - first:
+      213: -3484141128156947034
+    second: lem_111
+  - first:
+      213: 8500862206604113357
+    second: lem_112
+  - first:
+      213: -86854593958311430
+    second: lem_113
+  - first:
+      213: 8498452678144367783
+    second: lem_114
+  - first:
+      213: 6486603271709552875
+    second: lem_115
+  - first:
+      213: -6859376425472275101
+    second: lem_116
+  - first:
+      213: -2226189173316762092
+    second: lem_117
+  - first:
+      213: 5947024241891339644
+    second: lem_118
+  - first:
+      213: 7336546035456751256
+    second: lem_119
+  - first:
+      213: 5645959744168454770
+    second: lem_120
+  - first:
+      213: -2616080828261584271
+    second: lem_121
+  - first:
+      213: -1539812093013161251
+    second: lem_122
+  - first:
+      213: -4439931454366373594
+    second: lem_123
+  - first:
+      213: -1203584560373126890
+    second: lem_124
+  - first:
+      213: 6216386342028090115
+    second: lem_125
+  - first:
+      213: 6974727452056751734
+    second: lem_126
+  - first:
+      213: 3176329159143716684
+    second: lem_127
+  - first:
+      213: -9148469113583484027
+    second: lem_128
+  - first:
+      213: 7879375786091376098
+    second: lem_129
+  - first:
+      213: -5843467620669464693
+    second: lem_130
+  - first:
+      213: 1372847154329673012
+    second: lem_131
+  - first:
+      213: 2059660388627430413
+    second: lem_132
+  - first:
+      213: -7160553460809846359
+    second: lem_133
+  - first:
+      213: 647439042607700690
+    second: lem_134
+  - first:
+      213: 5057121510972995508
+    second: lem_135
+  - first:
+      213: -6519696143182882510
+    second: lem_136
+  - first:
+      213: -7782330763294311018
+    second: lem_137
+  - first:
+      213: -8767469102242262839
+    second: lem_138
+  - first:
+      213: -5990286353281015532
+    second: lem_139
+  - first:
+      213: 370145275396582885
+    second: lem_140
+  - first:
+      213: 1425733257845230943
+    second: lem_141
+  - first:
+      213: -983636535800882546
+    second: lem_142
+  - first:
+      213: -5061567290587095119
+    second: lem_143
+  - first:
+      213: -5654139615838487105
+    second: lem_144
+  - first:
+      213: 6080484843014344649
+    second: lem_145
+  - first:
+      213: -5483443608908097884
+    second: lem_146
+  - first:
+      213: 5861230719308657197
+    second: lem_147
+  - first:
+      213: 7284574086557494385
+    second: lem_148
+  - first:
+      213: -4356902604394628083
+    second: lem_149
+  - first:
+      213: -1906361325009244095
+    second: lem_150
+  - first:
+      213: 914531535312852400
+    second: lem_151
+  - first:
+      213: 7025281235754170153
+    second: lem_152
+  - first:
+      213: 5964383875905413527
+    second: lem_153
+  - first:
+      213: 4665439158651364233
+    second: lem_154
+  - first:
+      213: 3564173284158024656
+    second: lem_155
+  - first:
+      213: -162811228881277257
+    second: lem_156
+  - first:
+      213: 3569626199308981607
+    second: lem_157
+  - first:
+      213: 5604831007355150538
+    second: lem_158
+  - first:
+      213: 7745959240878036892
+    second: lem_159
+  - first:
+      213: -7304222335386581595
+    second: lem_160
+  - first:
+      213: -2117698183891620774
+    second: lem_161
+  - first:
+      213: 8694283749797581667
+    second: lem_162
+  - first:
+      213: -2743533046266547873
+    second: lem_163
+  - first:
+      213: 3356923379421274548
+    second: lem_164
+  - first:
+      213: -2650504983109935348
+    second: lem_165
+  - first:
+      213: -5047944790734437212
+    second: lem_166
+  - first:
+      213: -4445099151074785992
+    second: lem_167
+  - first:
+      213: -8251222354943462763
+    second: lem_168
+  - first:
+      213: -4457119250634801025
+    second: lem_169
+  - first:
+      213: 1188443651698713468
+    second: lem_170
+  - first:
+      213: -1914229316222220929
+    second: lem_171
+  - first:
+      213: -3873892068130230243
+    second: lem_172
+  - first:
+      213: -1328915174291356743
+    second: lem_173
+  - first:
+      213: -2931638859861785323
+    second: lem_174
+  - first:
+      213: -8484055549261164267
+    second: lem_175
+  - first:
+      213: -7620939049363133835
+    second: lem_176
+  - first:
+      213: 2018686562497660211
+    second: lem_177
+  - first:
+      213: 2946049209838283667
+    second: lem_178
+  - first:
+      213: -3075408600552478349
+    second: lem_179
+  - first:
+      213: -5663446113277850242
+    second: lem_180
+  - first:
+      213: 7606488238256372414
+    second: lem_181
+  - first:
+      213: 1763431130419325608
+    second: lem_182
+  - first:
+      213: 2614649020113064422
+    second: lem_183
+  - first:
+      213: -3591742256340083347
+    second: lem_184
+  - first:
+      213: 5887691394280971890
+    second: lem_185
+  - first:
+      213: 8684356878532480265
+    second: lem_186
+  - first:
+      213: 2376617906356130362
+    second: lem_187
+  - first:
+      213: 2077876672505283531
+    second: lem_188
+  - first:
+      213: -6234242793781216957
+    second: lem_189
+  - first:
+      213: 220893604061649902
+    second: lem_190
+  - first:
+      213: -8975325723117595573
+    second: lem_191
+  - first:
+      213: -2630197772123667097
+    second: lem_192
+  - first:
+      213: 7672368799400796895
+    second: lem_193
+  - first:
+      213: -8689246722189328724
+    second: lem_194
+  - first:
+      213: -5736590328028731568
+    second: lem_195
+  - first:
+      213: 881406361957124895
+    second: lem_196
+  - first:
+      213: 474181623457541484
+    second: lem_197
+  - first:
+      213: -5926303662381475503
+    second: lem_198
+  - first:
+      213: -4078108927201998603
+    second: lem_199
+  - first:
+      213: 7870734822227749933
+    second: lem_200
+  - first:
+      213: 8834240938920188044
+    second: lem_201
+  - first:
+      213: 6825275768120525374
+    second: lem_202
+  - first:
+      213: 5878320993165539877
+    second: lem_203
+  - first:
+      213: 9206454155129326848
+    second: lem_204
+  - first:
+      213: 7195729212825320547
+    second: lem_205
+  - first:
+      213: -4397006900485220220
+    second: lem_206
+  - first:
+      213: 8169954737687248580
+    second: lem_207
+  - first:
+      213: -1971941329622690720
+    second: lem_208
+  - first:
+      213: 4539453040568969698
+    second: lem_209
+  - first:
+      213: 5763508709840288844
+    second: lem_210
+  - first:
+      213: -6482248061716874080
+    second: lem_211
+  - first:
+      213: -3013823371252753896
+    second: lem_212
+  - first:
+      213: -9213605194064327599
+    second: lem_213
+  - first:
+      213: 7446069373502549128
+    second: lem_214
+  - first:
+      213: 2456655986877319210
+    second: lem_215
+  - first:
+      213: -4315710772640241937
+    second: lem_216
+  - first:
+      213: 9157507050185457289
+    second: lem_217
+  - first:
+      213: 581547128542792103
+    second: lem_218
+  - first:
+      213: -4724308611330975255
+    second: lem_219
+  - first:
+      213: 6753253618062764791
+    second: lem_220
+  - first:
+      213: 2891951695894109246
+    second: lem_221
+  - first:
+      213: -4009883032970443609
+    second: lem_222
+  - first:
+      213: 5952869732559264519
+    second: lem_223
+  - first:
+      213: 1660063239269054748
+    second: lem_224
+  - first:
+      213: -6757850957684880923
+    second: lem_225
+  - first:
+      213: 8628593417278023283
+    second: lem_226
+  - first:
+      213: -7442451951193811903
+    second: lem_227
+  - first:
+      213: -1591730997754232420
+    second: lem_228
+  - first:
+      213: -142736768682099856
+    second: lem_229
+  - first:
+      213: 4804364305945250160
+    second: lem_230
+  - first:
+      213: -8325836562458385876
+    second: lem_231
+  - first:
+      213: -4246196394936998115
+    second: lem_232
+  - first:
+      213: 770801499128981386
+    second: lem_233
+  - first:
+      213: -5023249782575393806
+    second: lem_234
+  - first:
+      213: 1677511472229892932
+    second: lem_235
+  - first:
+      213: 693712881690290656
+    second: lem_236
+  - first:
+      213: 4246186229074182704
+    second: lem_237
+  - first:
+      213: 6577690236579239208
+    second: lem_238
+  - first:
+      213: 3634135056214458081
+    second: lem_239
+  - first:
+      213: 3263484931158436386
+    second: lem_240
+  - first:
+      213: -67646576612475712
+    second: lem_241
+  - first:
+      213: 7153285389639451183
+    second: lem_242
+  - first:
+      213: -715142110292594849
+    second: lem_243
+  - first:
+      213: 4130193921135283833
+    second: lem_244
+  - first:
+      213: 5332163276128187164
+    second: lem_245
+  - first:
+      213: 9125486539726468892
+    second: lem_246
+  - first:
+      213: -7223038208471118885
+    second: lem_247
+  - first:
+      213: -6292637663573122434
+    second: lem_248
+  - first:
+      213: 543211407390375309
+    second: lem_249
+  - first:
+      213: 7872911515428785719
+    second: lem_250
+  - first:
+      213: -1620272812954734154
+    second: lem_251
+  - first:
+      213: 418340113161390720
+    second: lem_252
+  - first:
+      213: 8351785235158635811
+    second: lem_253
+  - first:
+      213: 2805256705999505535
+    second: lem_254
+  - first:
+      213: -9029128366392859658
+    second: lem_255
+  - first:
+      213: -8221726758902489111
+    second: lem_256
+  - first:
+      213: -7238387051582155330
+    second: lem_257
+  - first:
+      213: -9111944432415050255
+    second: lem_258
+  - first:
+      213: 2958465792557041597
+    second: lem_259
+  - first:
+      213: -2970154805388194777
+    second: lem_260
+  - first:
+      213: 961132552900673855
+    second: lem_261
+  - first:
+      213: 6581306557178332393
+    second: lem_262
+  - first:
+      213: -1530795961642604555
+    second: lem_263
+  - first:
+      213: -5201933000513798271
+    second: lem_264
+  - first:
+      213: -572944126372515101
+    second: lem_265
+  - first:
+      213: 2483838313804671162
+    second: lem_266
+  - first:
+      213: 5190048491298610874
+    second: lem_267
+  - first:
+      213: 534430163145001532
+    second: lem_268
+  - first:
+      213: -240771188396658378
+    second: lem_269
+  - first:
+      213: -4562014402847006311
+    second: lem_270
+  - first:
+      213: -2060133912300038071
+    second: lem_271
+  - first:
+      213: 8735701357342092893
+    second: lem_272
+  - first:
+      213: 6483959622380593314
+    second: lem_273
+  - first:
+      213: -5114167285988918724
+    second: lem_274
+  - first:
+      213: 3853301805001248539
+    second: lem_275
+  - first:
+      213: 2719725883592822668
+    second: lem_276
+  - first:
+      213: -8550592922552067685
+    second: lem_277
+  - first:
+      213: 7262907640512516744
+    second: lem_278
+  - first:
+      213: 1402009214874137641
+    second: lem_279
+  - first:
+      213: 6785333760957295678
+    second: lem_280
+  - first:
+      213: -3196170342648105067
+    second: lem_281
+  - first:
+      213: 2128189251695556907
+    second: lem_282
+  - first:
+      213: 3343721119211042131
+    second: lem_283
+  - first:
+      213: 6863164827921216512
+    second: lem_284
+  - first:
+      213: -6700217288887629297
+    second: lem_285
+  - first:
+      213: 2911924026673427332
+    second: lem_286
+  - first:
+      213: 4869717484513662597
+    second: lem_287
+  - first:
+      213: 5247492444860380757
+    second: lem_288
+  - first:
+      213: -3183435237779915915
+    second: lem_289
+  - first:
+      213: 6351038062785171851
+    second: lem_290
+  - first:
+      213: 4953170391013572982
+    second: lem_291
+  - first:
+      213: 4861535814538717672
+    second: lem_292
+  - first:
+      213: 2301792822090570159
+    second: lem_293
+  - first:
+      213: -2266261828102686643
+    second: lem_294
+  - first:
+      213: -4772064152497269187
+    second: lem_295
+  - first:
+      213: -656049183202949322
+    second: lem_296
+  - first:
+      213: -3002994743469641522
+    second: lem_297
+  - first:
+      213: 6052530484368389422
+    second: lem_298
+  - first:
+      213: 4752053624495194588
+    second: lem_299
+  - first:
+      213: -4846517796842011719
+    second: lem_300
+  - first:
+      213: 1275451328871275737
+    second: lem_301
+  - first:
+      213: -6747848824469152975
+    second: lem_302
+  - first:
+      213: -523727644939060121
+    second: lem_303
+  - first:
+      213: -6625036894441732052
+    second: lem_304
+  - first:
+      213: -438153921452017725
+    second: lem_305
+  - first:
+      213: -4587916977698242033
+    second: lem_306
+  - first:
+      213: 4282496359682976455
+    second: lem_307
+  - first:
+      213: 7408240985952609350
+    second: lem_308
+  - first:
+      213: -5267799410388633617
+    second: lem_309
+  - first:
+      213: -6136064312453506686
+    second: lem_310
+  - first:
+      213: -122424456810509218
+    second: lem_311
+  - first:
+      213: 225204794503412265
+    second: lem_312
+  - first:
+      213: -1976337793717611539
+    second: lem_313
+  - first:
+      213: 5589633986292393469
+    second: lem_314
+  - first:
+      213: -8483469171656107642
+    second: lem_315
+  - first:
+      213: -7858899101540758834
+    second: lem_316
+  - first:
+      213: -4215119031695676823
+    second: lem_317
+  - first:
+      213: -3820066162273906099
+    second: lem_318
+  - first:
+      213: -2452455938200817108
+    second: lem_319
+  - first:
+      213: 8278754811863105498
+    second: lem_320
+  - first:
+      213: -8044170381358395602
+    second: lem_321
+  - first:
+      213: -461286682598430401
+    second: lem_322
+  - first:
+      213: -3098153275741992015
+    second: lem_323
+  - first:
+      213: 2085014433571196687
+    second: lem_324
+  - first:
+      213: -2240154237581379299
+    second: lem_325
+  - first:
+      213: 3494955620971259024
+    second: lem_326
+  - first:
+      213: 2770354775090586082
+    second: lem_327
+  - first:
+      213: 5160342529743007076
+    second: lem_328
+  - first:
+      213: -6329611036050374508
+    second: lem_329
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035e8e475055d910800000000000000
+      internalID: 1861482356897895181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d425c633f97c98d0800000000000000
+      internalID: -2838259579647351598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fea98612e6b9e50800000000000000
+      internalID: 6817163550723338102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b30de487c2ed80800000000000000
+      internalID: -8222790595899050285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60796f6c73090100800000000000000
+      internalID: 74594701808332909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c80d131078a4d0800000000000000
+      internalID: -3123123114187635585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2cab8aefd615f90800000000000000
+      internalID: -6966666208045514028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df06c6d86a7017330800000000000000
+      internalID: 3706752380221284605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d594b1383707ae40800000000000000
+      internalID: 5667506594002539991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f06d36e62bc080800000000000000
+      internalID: -9166189846268413912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60937680d27341b80800000000000000
+      internalID: -8425048336349316858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ebe84fae1bedf0800000000000000
+      internalID: -149992424395250872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54440d967309cb510800000000000000
+      internalID: 1566285338090947653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca8e9b33619d6a0800000000000000
+      internalID: -6424078982049125303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44346ba80d0fe380800000000000000
+      internalID: -8939912404420774835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c5ef61a97df41e0800000000000000
+      internalID: -2211311835204920165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0c0a2a2238e590800000000000000
+      internalID: -7644805210785968918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e5aa2e338cb330800000000000000
+      internalID: 3727998894582654391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a897ade066482830800000000000000
+      internalID: 4046561647310379172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_19
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4900e22c8dca785b0800000000000000
+      internalID: -5366130384017948524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8939d8f401e8037f0800000000000000
+      internalID: -634851346753940584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_21
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 828
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065625234cf6ba410800000000000000
+      internalID: 1489406990224614752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124ad9a78cd45dc80800000000000000
+      internalID: -8298641214914321375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca4eb017985de430800000000000000
+      internalID: 3813801865296890575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59cc8253aaed600800000000000000
+      internalID: 495020154351818203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683fb553c0fdc5f0800000000000000
+      internalID: -734666442443638681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e91f2d276867ae0800000000000000
+      internalID: -1551905193859113382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2bc0f9047d76420800000000000000
+      internalID: 2623301980512891635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cbf08baf7714c90800000000000000
+      internalID: -7187331611593032590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab542962b1f3a420800000000000000
+      internalID: 2640219555139705765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb11bfb7ba803430800000000000000
+      internalID: 3760658210654067640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a022945b2bd1b80800000000000000
+      internalID: -8422379236427167092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef80fbf4b4c84e70800000000000000
+      internalID: 9099739328702091237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c34e448dfd7ca0800000000000000
+      internalID: -6017374782406538989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ee2086ad688330800000000000000
+      internalID: 3713338454649529509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fc0bca5c56bbd0800000000000000
+      internalID: -2614800988618558022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_36
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a771cb4c884400800000000000000
+      internalID: 308650831471159757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52667b4b181a0f80800000000000000
+      internalID: -8139666871009516962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20f34a268c31dc0800000000000000
+      internalID: -3669368945388879169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_39
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e2c45dae2f6b010800000000000000
+      internalID: 1204417040782995073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_40
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a01d8b87b0f2f0800000000000000
+      internalID: -941050512125417598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_41
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4cebddebb860910800000000000000
+      internalID: 1803282352688776428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1880f07419af9330800000000000000
+      internalID: 3719877722490570778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_43
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 769
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c728438c375ed40800000000000000
+      internalID: 5613019814298811538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bdbd1b8c327100800000000000000
+      internalID: 104212309580034248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b9dd519eea5710800000000000000
+      internalID: 1682919718888520173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07860c45bbdc6ac40800000000000000
+      internalID: 5523328197480966256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4018de29d61730800000000000000
+      internalID: 3969598916790340448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157598fd28a973e00800000000000000
+      internalID: 1024457327136823121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e89646867877c30800000000000000
+      internalID: 4357100046935232099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea52186414fdf820800000000000000
+      internalID: 2953785299107470050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb02425077df4b0800000000000000
+      internalID: -5405033113810060151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eff4f6475fb1760800000000000000
+      internalID: 7429801890710290051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_53
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d4e3ec5acbec20800000000000000
+      internalID: 3236903257505060372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365fbff45dfae6e0800000000000000
+      internalID: -1807353758926023109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf4431a3f014900800000000000000
+      internalID: 666830961933351638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_56
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8aef3aacb984ef0800000000000000
+      internalID: -123677695115613969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_57
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec36cf30a84b3d70800000000000000
+      internalID: 9023886131468844267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_58
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1f3835ef9ffcf0800000000000000
+      internalID: -216278450250506423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fdf9bb4f9db1e80800000000000000
+      internalID: -8206726250809532517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22317f64ff68ff50800000000000000
+      internalID: 6915400323459789359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045fd7e2d3b4d980800000000000000
+      internalID: -8514983277036088317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_62
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f1696432e186b60800000000000000
+      internalID: 7739469096493129593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_63
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2f0e345fabf470800000000000000
+      internalID: 8429523903907310592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_64
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a2232b757cad40800000000000000
+      internalID: 5596977608645584517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_65
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 710
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581947eb17c7f9610800000000000000
+      internalID: 1630158418099868037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6866ce41693fda470800000000000000
+      internalID: 8407643905292265094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409f454b3d912ae0800000000000000
+      internalID: -1575805516711489465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f32c89e224f2ac0800000000000000
+      internalID: -3877807986243911860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71dc9ac502ace3d0800000000000000
+      internalID: -3175985491445231237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e142125ffad4af60800000000000000
+      internalID: 8044795624518992361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de69ff657a8dd7b10800000000000000
+      internalID: 1980977624343615213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0379b00b5353c4670800000000000000
+      internalID: 8524246699408594736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_73
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7920c954d791230800000000000000
+      internalID: 3610054314237794240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279bd236abd54330800000000000000
+      internalID: 3694600576191665958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1491609fddd98c50800000000000000
+      internalID: 6668104675568489498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c84cc78f0382dd0800000000000000
+      internalID: -2510702948455773169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_77
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c72ffa2b276b5c0800000000000000
+      internalID: -4200043490694759422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e76e0e5fc2e6670800000000000000
+      internalID: 8533807778465480228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_79
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc90677b8efb440800000000000000
+      internalID: 4953933989787847507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_80
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac7087469268700800000000000000
+      internalID: 542166316631968462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_81
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212e144b483f6790800000000000000
+      internalID: -7534741755651022548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c70f27de531186f0800000000000000
+      internalID: -684244370325567545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_83
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612578a38d1900be0800000000000000
+      internalID: -1513049116915576298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_84
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9fa504844d9e660800000000000000
+      internalID: 7415691668224670118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_85
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27d15f3ae37d4a0800000000000000
+      internalID: -6568712657583639891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37531f924902c9490800000000000000
+      internalID: -7738274238998432397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_87
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 651
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769a2145ca7779f0800000000000000
+      internalID: -470772648416471440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbcae638cf9523c0800000000000000
+      internalID: -4384922979911676976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_89
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37be69281ad6929f0800000000000000
+      internalID: -492742143772267661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d06c8eb8b5c34b0800000000000000
+      internalID: -5459387991816008432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be033253439d120800000000000000
+      internalID: 2439038076026153880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60638482e1e74ae10800000000000000
+      internalID: 2208028385308325382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dce5b4bb9fd4c80800000000000000
+      internalID: -8336732752374215422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64ca8011a8760f0800000000000000
+      internalID: -1123777776241064252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc4754a6cb7b93c0800000000000000
+      internalID: -4351748521832526633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c3eb1a6550fd30800000000000000
+      internalID: 4463161144946967255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_97
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49cf8ca9324df60800000000000000
+      internalID: 8058104780976592074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_98
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc7e97a71802ca0800000000000000
+      internalID: -6043688336899977314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_99
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518cb4b2fc055e690800000000000000
+      internalID: -7573558347638781931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_100
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd34e92c5200cf20800000000000000
+      internalID: 3440752710174129613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_101
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d9b8e7df19e7f0800000000000000
+      internalID: -582899664584846085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_102
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ea22d166f3fdd60800000000000000
+      internalID: 7917116377748647482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_103
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a285f105fb1200f0800000000000000
+      internalID: -1152327815539621213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff8b7bf995d848d0800000000000000
+      internalID: -2861802705868058637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_105
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c0e5104a7efb40800000000000000
+      internalID: 5475948612592650351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_106
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a20b3a2ab0af5e00800000000000000
+      internalID: 1035723160751375013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_107
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3dc578c1f1155b0800000000000000
+      internalID: -5381485872340479009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_108
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165760b944423ee90800000000000000
+      internalID: -6997709518926351007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_109
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 592
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd19f8f0e8b32330800000000000000
+      internalID: 3684992196508458432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb292ebc808914c0800000000000000
+      internalID: -4316277425883763720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_111
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad50ec8a18d5afc0800000000000000
+      internalID: -3484141128156947034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc57e2d232129f570800000000000000
+      internalID: 8500862206604113357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9010cf43e6bcef0800000000000000
+      internalID: -86854593958311430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac134d1fa190f570800000000000000
+      internalID: 8498452678144367783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07221ee4b050a50800000000000000
+      internalID: 6486603271709552875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_116
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d490bcb799ec0a0800000000000000
+      internalID: -6859376425472275101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_117
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41642a1edbcfa11e0800000000000000
+      internalID: -2226189173316762092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de1901a03188250800000000000000
+      internalID: 5947024241891339644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_119
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89633b1afb5a0d560800000000000000
+      internalID: 7336546035456751256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_120
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae057497a7a5e40800000000000000
+      internalID: 5645959744168454770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_121
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17232c7e850d1bbd0800000000000000
+      internalID: -2616080828261584271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_122
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda89174f0d71aae0800000000000000
+      internalID: -1539812093013161251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a863bdd13262c0800000000000000
+      internalID: -4439931454366373594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a0dd18320c4fe0800000000000000
+      internalID: -1203584560373126890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_125
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9c27317a054650800000000000000
+      internalID: 6216386342028090115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_126
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0209f9a53bc060800000000000000
+      internalID: 6974727452056751734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_127
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47f9749a86941c20800000000000000
+      internalID: 3176329159143716684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_128
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834936dfcb1a0180800000000000000
+      internalID: -9148469113583484027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_129
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6acdd78a295d60800000000000000
+      internalID: 7879375786091376098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_130
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fdf75b825d7eea0800000000000000
+      internalID: -5843467620669464693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_131
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 533
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd9b496355d0310800000000000000
+      internalID: 1372847154329673012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb41ef532659c10800000000000000
+      internalID: 2059660388627430413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13c3dc09a90ac90800000000000000
+      internalID: -7160553460809846359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad954016a2cf800800000000000000
+      internalID: 647439042607700690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_135
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7388f68318e2640800000000000000
+      internalID: 5057121510972995508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239991e86e26585a0800000000000000
+      internalID: -6519696143182882510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_137
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7f31476b9ff390800000000000000
+      internalID: -7782330763294311018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_138
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c013a5bd41b35680800000000000000
+      internalID: -8767469102242262839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a0d1bc4a3edca0800000000000000
+      internalID: -5990286353281015532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed6d47ba25032500800000000000000
+      internalID: 370145275396582885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_141
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d435a18d839c310800000000000000
+      internalID: 1425733257845230943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1e7f38cb6952f0800000000000000
+      internalID: -983636535800882546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_143
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfd1d5dd53b1c9b0800000000000000
+      internalID: -5061567290587095119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdbb7fe9f57881b0800000000000000
+      internalID: -5654139615838487105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf440abfb8326450800000000000000
+      internalID: 6080484843014344649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_146
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a695291715e6e3b0800000000000000
+      internalID: -5483443608908097884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_147
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22fffaf846475150800000000000000
+      internalID: 5861230719308657197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_148
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c66415981081560800000000000000
+      internalID: 7284574086557494385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_149
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c75184a2c2983c0800000000000000
+      internalID: -4356902604394628083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_150
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f749a97e3b85e0800000000000000
+      internalID: -1906361325009244095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_151
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51732069111bc00800000000000000
+      internalID: 914531535312852400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_152
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273858ff00de7160800000000000000
+      internalID: 7025281235754170153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_153
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 474
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e863d88fb5c250800000000000000
+      internalID: 5964383875905413527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ac9c3238feb040800000000000000
+      internalID: 4665439158651364233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_155
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db2d28d7bc767130800000000000000
+      internalID: 3564173284158024656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2619cc049dbdf0800000000000000
+      internalID: -162811228881277257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_157
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655db69d1cd98130800000000000000
+      internalID: 3569626199308981607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0af730b1c58cd40800000000000000
+      internalID: 5604831007355150538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_159
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c979035c3ec2f7b60800000000000000
+      internalID: 7745959240878036892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50fc24c7032aa90800000000000000
+      internalID: -7304222335386581595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_161
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c66a7c8bc6c92e0800000000000000
+      internalID: -2117698183891620774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d223910d48a870800000000000000
+      internalID: 8694283749797581667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_163
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51bcb3fa330de9d0800000000000000
+      internalID: -2743533046266547873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_164
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1eb902700369e20800000000000000
+      internalID: 3356923379421274548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_165
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5456c2c3873bd0800000000000000
+      internalID: -2650504983109935348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_166
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a48d7e35f812f9b0800000000000000
+      internalID: -5047944790734437212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_167
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8350ccc8fd5df42c0800000000000000
+      internalID: -4445099151074785992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_168
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59235da2cf4cd7d80800000000000000
+      internalID: -8251222354943462763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_169
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f708b5808a12522c0800000000000000
+      internalID: -4457119250634801025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_170
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e11f54333e7010800000000000000
+      internalID: 1188443651698713468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_171
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758fe3349a4f65e0800000000000000
+      internalID: -1914229316222220929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_172
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f4e450bb2d3ac0800000000000000
+      internalID: -3873892068130230243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_173
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ccbb90bebe8de0800000000000000
+      internalID: -1328915174291356743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_174
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515053c4df9b057d0800000000000000
+      internalID: -2931638859861785323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_175
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 415
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5115b9bad64924a80800000000000000
+      internalID: -8484055549261164267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aaec3ef4cfc3690800000000000000
+      internalID: -7620939049363133835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_177
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335078eabb0d30c10800000000000000
+      internalID: 2018686562497660211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2b33c52872e820800000000000000
+      internalID: 2946049209838283667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_179
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37963e80c24f155d0800000000000000
+      internalID: -3075408600552478349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc18524c56761b0800000000000000
+      internalID: -5663446113277850242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_181
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba357570ccaf8960800000000000000
+      internalID: 7606488238256372414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_182
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa62822547f87810800000000000000
+      internalID: 1763431130419325608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_183
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e199284e69194420800000000000000
+      internalID: 2614649020113064422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_184
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd61e9271972ec0800000000000000
+      internalID: -3591742256340083347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_185
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edd37f02845b150800000000000000
+      internalID: 5887691394280971890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_186
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d06afb198058870800000000000000
+      internalID: 8684356878532480265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_187
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32903bd4617bf020800000000000000
+      internalID: 2376617906356130362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_188
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38fb713d916dc10800000000000000
+      internalID: 2077876672505283531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_189
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b121a5358b79a0800000000000000
+      internalID: -6234242793781216957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_190
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb10430095c01300800000000000000
+      internalID: 220893604061649902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_191
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445622eecc317380800000000000000
+      internalID: -8975325723117595573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_192
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658b87cf09af7bd0800000000000000
+      internalID: -2630197772123667097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_193
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2231ae5cab97a60800000000000000
+      internalID: 7672368799400796895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_194
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7d2ec428996780800000000000000
+      internalID: -8689246722189328724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_195
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057e7eb8d798360b0800000000000000
+      internalID: -5736590328028731568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_196
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b49339a626b3c00800000000000000
+      internalID: 881406361957124895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_197
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 356
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d64399ca1a49600800000000000000
+      internalID: 474181623457541484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d7acc73a81cda0800000000000000
+      internalID: -5926303662381475503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_199
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f886c69985a767c0800000000000000
+      internalID: -4078108927201998603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_200
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cae20be977a3d60800000000000000
+      internalID: 7870734822227749933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_201
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881d800457899a70800000000000000
+      internalID: 8834240938920188044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c7e4362048be50800000000000000
+      internalID: 6825275768120525374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_203
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a7a517ccdf39150800000000000000
+      internalID: 5878320993165539877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_204
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0765b645e3cf70800000000000000
+      internalID: 9206454155129326848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_205
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cba5e289d5cd360800000000000000
+      internalID: 7195729212825320547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_206
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48813a53581baf2c0800000000000000
+      internalID: -4397006900485220220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_207
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3ed23c82816170800000000000000
+      internalID: 8169954737687248580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_208
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649de9fec142a4e0800000000000000
+      internalID: -1971941329622690720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_209
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92ea54d706ffe30800000000000000
+      internalID: 4539453040568969698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_210
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c76ed92a81cff40800000000000000
+      internalID: 5763508709840288844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_211
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb6677bbd6a06a0800000000000000
+      internalID: -6482248061716874080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_212
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a95bc9c9fbc26d0800000000000000
+      internalID: -3013823371252753896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_213
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0a1b44e2b22080800000000000000
+      internalID: -9213605194064327599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_214
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce88ce4a0c55760800000000000000
+      internalID: 7446069373502549128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_215
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c829aa9bc71220800000000000000
+      internalID: 2456655986877319210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_216
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6a37bfae38b14c0800000000000000
+      internalID: -4315710772640241937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_217
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7072c420061f70800000000000000
+      internalID: 9157507050185457289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_218
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a901f04802121800800000000000000
+      internalID: 581547128542792103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_219
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 297
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95c443952ef6eb0800000000000000
+      internalID: -4724308611330975255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa0c6a26068bd50800000000000000
+      internalID: 6753253618062764791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_221
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c5b55ceb6422820800000000000000
+      internalID: 2891951695894109246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_222
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44ee470a80a58c0800000000000000
+      internalID: -4009883032970443609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_223
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b9e5b6b77dc9250800000000000000
+      internalID: 5952869732559264519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_224
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f05188bab90710800000000000000
+      internalID: 1660063239269054748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_225
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c82ecb5a4732a0800000000000000
+      internalID: -6757850957684880923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_226
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376612c2ffbeeb770800000000000000
+      internalID: 8628593417278023283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_227
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441e27d16917b890800000000000000
+      internalID: -7442451951193811903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_228
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9181e4471909e9e0800000000000000
+      internalID: -1591730997754232420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_229
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf0564aa5e40ef0800000000000000
+      internalID: -142736768682099856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_230
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ce63b1e78ca240800000000000000
+      internalID: 4804364305945250160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_231
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2265b432cfa47c80800000000000000
+      internalID: -8325836562458385876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_232
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176c3940ea7215c0800000000000000
+      internalID: -4246196394936998115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_233
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87ebeb21ef62ba00800000000000000
+      internalID: 770801499128981386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_234
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f31983efe4d94ab0800000000000000
+      internalID: -5023249782575393806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_235
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c7e0dbc7b74710800000000000000
+      internalID: 1677511472229892932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_236
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92341c03090a900800000000000000
+      internalID: 693712881690290656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_237
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0324f1ac0eb7dea30800000000000000
+      internalID: 4246186229074182704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_238
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255cd98b66a84b50800000000000000
+      internalID: 6577690236579239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_239
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef473449a0f6230800000000000000
+      internalID: 3634135056214458081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_240
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae983114a3a4d20800000000000000
+      internalID: 3263484931158436386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_241
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 238
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccfdb60ccbaf0ff0800000000000000
+      internalID: -67646576612475712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2283728923954360800000000000000
+      internalID: 7153285389639451183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_243
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f26182a0e4316f0800000000000000
+      internalID: -715142110292594849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_244
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0fb21d75615930800000000000000
+      internalID: 4130193921135283833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_245
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f006af36aff940800000000000000
+      internalID: 5332163276128187164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_246
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173103b8ad34ae70800000000000000
+      internalID: 9125486539726468892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_247
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb4109c40d92cb90800000000000000
+      internalID: -7223038208471118885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_248
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ea72826f0ca8a0800000000000000
+      internalID: -6292637663573122434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_249
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d717f95efd98700800000000000000
+      internalID: 543211407390375309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e07319f43324d60800000000000000
+      internalID: 7872911515428785719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_251
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13c901672a389e0800000000000000
+      internalID: -1620272812954734154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_252
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a0840dd1e3ec500800000000000000
+      internalID: 418340113161390720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_253
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259bf5fb6087e370800000000000000
+      internalID: 8351785235158635811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_254
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7802e87c164ee620800000000000000
+      internalID: 2805256705999505535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_255
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f320c1d69712b280800000000000000
+      internalID: -9029128366392859658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_256
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1b47c21f86ed80800000000000000
+      internalID: -8221726758902489111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_257
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb598a3c3551c8b90800000000000000
+      internalID: -7238387051582155330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_258
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f57dccd0dedb8180800000000000000
+      internalID: -9111944432415050255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_259
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c185b6f49e0920800000000000000
+      internalID: 2958465792557041597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_260
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ccae8e0f3e7c6d0800000000000000
+      internalID: -2970154805388194777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_261
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3185bde6f0a65d00800000000000000
+      internalID: 961132552900673855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_262
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4409ac17f755b50800000000000000
+      internalID: 6581306557178332393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_263
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 179
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a0b2fe2581cae0800000000000000
+      internalID: -1530795961642604555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f3efe3f750fc7b0800000000000000
+      internalID: -5201933000513798271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_265
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e27b674a5e7c08f0800000000000000
+      internalID: -572944126372515101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_266
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab825d559cd587220800000000000000
+      internalID: 2483838313804671162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_267
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed7e2da91c60840800000000000000
+      internalID: 5190048491298610874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_268
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a038fd66daa6700800000000000000
+      internalID: 534430163145001532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_269
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f77b31eb98acf0800000000000000
+      internalID: -240771188396658378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_270
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a61a321870b0c0800000000000000
+      internalID: -4562014402847006311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_271
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948de9f2f1fe863e0800000000000000
+      internalID: -2060133912300038071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_272
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee54cc9127b3970800000000000000
+      internalID: 8735701357342092893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_273
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a8fd4ce6abf950800000000000000
+      internalID: 6483959622380593314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_274
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af4bc03f3d609b0800000000000000
+      internalID: -5114167285988918724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_275
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8873739da97530800000000000000
+      internalID: 3853301805001248539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_276
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4cf908486eb520800000000000000
+      internalID: 2719725883592822668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_277
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9990583a01365980800000000000000
+      internalID: -8550592922552067685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_278
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882183db4080bc460800000000000000
+      internalID: 7262907640512516744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_279
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b568e3ffe47310800000000000000
+      internalID: 1402009214874137641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_280
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c2358fa195a2e50800000000000000
+      internalID: 6785333760957295678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_281
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59732d4e10ce4a3d0800000000000000
+      internalID: -3196170342648105067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_282
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293e1a49d8d88d10800000000000000
+      internalID: 2128189251695556907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_283
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355bb8264a8476e20800000000000000
+      internalID: 3343721119211042131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_284
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f2336c0cde3f50800000000000000
+      internalID: 6863164827921216512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_285
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 120
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0ce100eb0403a0800000000000000
+      internalID: -6700217288887629297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_286
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4837bc6697b396820800000000000000
+      internalID: 2911924026673427332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_287
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58612f45046b49340800000000000000
+      internalID: 4869717484513662597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_288
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556f2718396d2d840800000000000000
+      internalID: 5247492444860380757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_289
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bbaae848a22d3d0800000000000000
+      internalID: -3183435237779915915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_290
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b819b47087b632850800000000000000
+      internalID: 6351038062785171851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_291
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671c8544a323db440800000000000000
+      internalID: 4953170391013572982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_292
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e96b68d015a77340800000000000000
+      internalID: 4861535814538717672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_293
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa99043506c91ff10800000000000000
+      internalID: 2301792822090570159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_294
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4879efdfde9c80e0800000000000000
+      internalID: -2266261828102686643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_295
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d365601dfe836cdb0800000000000000
+      internalID: -4772064152497269187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_296
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c0086ebe35e6f0800000000000000
+      internalID: -656049183202949322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_297
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0702df0383356d0800000000000000
+      internalID: -3002994743469641522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_298
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2530096868eef350800000000000000
+      internalID: 6052530484368389422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_299
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c4a1189fa2f140800000000000000
+      internalID: 4752053624495194588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_300
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b38f91edb5bdbcb0800000000000000
+      internalID: -4846517796842011719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_301
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1ca9d93053b110800000000000000
+      internalID: 1275451328871275737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_302
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b9a7bee33da52a0800000000000000
+      internalID: -6747848824469152975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_303
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cfa545b785bb8f0800000000000000
+      internalID: -523727644939060121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_304
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2881f2ab042f04a0800000000000000
+      internalID: -6625036894441732052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_305
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c778e2745d5be9f0800000000000000
+      internalID: -438153921452017725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_306
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02005d01d17450c0800000000000000
+      internalID: -4587916977698242033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_307
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 61
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caaecedfbb7e6b30800000000000000
+      internalID: 4282496359682976455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e13a1deb5fc660800000000000000
+      internalID: 7408240985952609350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_309
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f5c3a85405e6b0800000000000000
+      internalID: -5267799410388633617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_310
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289d141a40258daa0800000000000000
+      internalID: -6136064312453506686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_311
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4dfbea9f0d4ef0800000000000000
+      internalID: -122424456810509218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_312
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a37124196102300800000000000000
+      internalID: 225204794503412265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_313
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de358496f33a294e0800000000000000
+      internalID: -1976337793717611539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_314
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5a861de7e529d40800000000000000
+      internalID: 5589633986292393469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_315
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689d5785cb9a44a80800000000000000
+      internalID: -8483469171656107642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_316
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac607c7e49fe290800000000000000
+      internalID: -7858899101540758834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_317
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6ac5c293e085c0800000000000000
+      internalID: -4215119031695676823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_318
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429c23a0166cfac0800000000000000
+      internalID: -3820066162273906099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_319
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223e30615027fdd0800000000000000
+      internalID: -2452455938200817108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_320
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff7af73ab04e270800000000000000
+      internalID: 8278754811863105498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_321
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f0a6278ad5d5090800000000000000
+      internalID: -8044170381358395602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_322
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f392a18c43e2999f0800000000000000
+      internalID: -461286682598430401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_323
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8faba2062105d0800000000000000
+      internalID: -3098153275741992015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_324
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc29894957fec10800000000000000
+      internalID: 2085014433571196687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_325
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1930eaf69f59e0e0800000000000000
+      internalID: -2240154237581379299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_326
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0942fb5ce93908030800000000000000
+      internalID: 3494955620971259024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_327
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e41f6df6427620800000000000000
+      internalID: 2770354775090586082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_328
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2caca0383d9740800000000000000
+      internalID: 5160342529743007076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lem_329
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49043d56c44b828a0800000000000000
+      internalID: -6329611036050374508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
