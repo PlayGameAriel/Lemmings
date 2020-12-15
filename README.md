@@ -8,3 +8,10 @@ The objective of the game is to guide a group of anthropomorphised lemmings thro
 
 The game buttons: arrows right, arrows left, arrows down
 
+<div dir='rtl' lang='he'>
+  
+  מהתחלה ציירתי במפת האריחים של יוניטי את המפה.
+  
+  מפני שהשתמשתי ביותר מדי תאים יצאה מפה קבדה מדי. אז עשיתי מהמפה תמונה חדשה ואז חלקתי אותה לאריחים וכך הרכבתי את המפה.
+  
+ </div>
